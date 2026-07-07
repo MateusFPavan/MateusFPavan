@@ -20,7 +20,7 @@ Open to remote and international opportunities.
 
 | Project | Description | Tech |
 |---|---|---|
-| Exploratory Data Analysis - Olist E-commerce (coming soon) | Data cleaning and business insights on delivery times, review scores, and seasonality in Brazilian e-commerce | Python, Pandas, EDA |
+| [Brazilian Aviation Delays EDA - ANAC VRA 2022](https://github.com/MateusFPavan/anac-voos-eda) | Analyzed 876K official flight records; found delay rose 58% in 2022 tracking capacity growth, not seasonality | Python, Pandas, EDA |
 | Credit Card Fraud Detection (coming soon) | Classification model handling imbalanced data with SMOTE, evaluated with precision/recall/AUC | Scikit-learn, SMOTE, Classification |
 | Sentiment Analysis - NLP (planned) | Sentiment analysis on Portuguese-language reviews | NLP, Portuguese |
 | Demand Forecasting - Time Series (planned) | Sales and demand forecasting | Time Series, Forecasting |
