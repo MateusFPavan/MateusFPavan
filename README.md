@@ -1,40 +1,35 @@
 # Hi, I'm Mateus Pavan
 
-Data Scientist in training | Machine Learning | Data Analytics | Python | SQL
+Data Scientist | Machine Learning · Time Series · Credit Risk | Python · SQL
 
 ## About Me
 
-I'm transitioning my career into Data Science, driven by a passion for turning data into decisions. I hold a Data Scientist Associate certification and I'm building a portfolio of end-to-end projects, from exploratory analysis to classification models, applied to real business problems.
+I'm transitioning into Data Science from 5+ years in enterprise IT (SAP consulting on international projects), bringing a background in business systems, databases, and programming logic. I hold a DataCamp Associate Data Scientist certification and build end-to-end projects — from exploratory analysis to production-oriented modeling — always framed around a business decision: profit, cost, risk.
 
-Open to remote and international opportunities.
+Open to all formats of work(like presencial) as Full-time or contractor in nacional and international opportunities.
 
 ## Tools & Technologies
 
-**Languages:** Python, SQL
-**Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
-**Visualization & BI:** Power BI, Tableau
-**Tools:** Jupyter Notebook, Git, GitHub
-**Cloud (basic):** AWS, GCP
+**Languages:** Python, SQL (MySQL, PostgreSQL, ABAP SQL)
+**ML & Modeling:** Scikit-learn, XGBoost, SHAP, statsmodels (SARIMA), Prophet, PyTorch, foundation models (Chronos-2)
+**Time Series:** walk-forward validation, day-ahead forecasting, leakage control
+**Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+**Tools:** Jupyter, Git, GitHub
+**Cloud (fundamentals):** Azure (AZ-900 track), AWS, GCP
 
 ## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Brazilian Aviation Delays EDA - ANAC VRA 2022](https://github.com/MateusFPavan/anac-voos-eda) | Analyzed 876K official flight records; found delay rose 58% in 2022 tracking capacity growth, not seasonality | Python, Pandas, EDA |
-| Credit Card Fraud Detection (coming soon) | Classification model handling imbalanced data with SMOTE, evaluated with precision/recall/AUC | Scikit-learn, SMOTE, Classification |
-| Sentiment Analysis - NLP (planned) | Sentiment analysis on Portuguese-language reviews | NLP, Portuguese |
-| Demand Forecasting - Time Series (planned) | Sales and demand forecasting | Time Series, Forecasting |
+| [Electricity Load Forecasting (ONS)](https://github.com/MateusFPavan/ons-carga-eda) | Day-ahead hourly load forecasting for Brazil's SE/CO grid. A zero-shot foundation model (Chronos-2) beats tuned SARIMA/Prophet — MASE 0.44 vs 1.27 — cutting the modeled dispatch cost of forecast error by ~65%. Walk-forward validation, leakage tests, cost-weighted evaluation. | Python, PyTorch, Chronos-2, statsmodels, Prophet, Time Series |
+| [Credit Default Prediction (Lending Club)](https://github.com/MateusFPavan/credit-default-prediction-lendingclub) | End-to-end credit risk model on ~673K P2P loans, optimized for portfolio profit rather than accuracy. Temporal validation, SHAP explainability, leakage screening on three fronts, calibration tested and rejected with justification. | Python, XGBoost, SHAP, Scikit-learn |
+| [Brazilian Aviation Delays EDA (ANAC)](https://github.com/MateusFPavan/anac-voos-eda) | Exploratory analysis of 876K official flight records; found delays rose 58% in 2022, tracking capacity growth rather than seasonality. Corrected a real data anomaly along the way. | Python, Pandas, EDA |
 
 ## Certifications
 
-**Data Scientist Associate** - DataCamp
-Practical certification covering regression, classification, and exploratory data analysis.
+**Data Scientist Associate** — DataCamp (Oct 2025 – Oct 2027)
+**GitHub Foundations** — DataCamp (Jun 2026 – Jun 2027)
 
 ## Contact
 
-Email: mateusfardinpavan@gmail.com
-LinkedIn: Mateus Pavan
-GitHub: github.com/MateusFPavan
-
----
-*Portfolio in progress, updated as new projects are published.*
+[LinkedIn](https://www.linkedin.com/in/mateus-fardin-pavan) · [mateusfardinpavan@gmail.com](mailto:mateusfardinpavan@gmail.com)
