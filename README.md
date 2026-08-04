@@ -17,10 +17,10 @@ Open to all formats of work(like presencial) as Full-time or contractor in nacio
 | [Credit Default Prediction (Lending Club)](https://github.com/MateusFPavan/credit-default-prediction-lendingclub) | End-to-end credit risk model on ~673K P2P loans, optimized for portfolio profit rather than accuracy. Temporal validation, SHAP explainability, leakage screening on three fronts, calibration tested and rejected with justification. | Python, XGBoost, SHAP, Scikit-learn |
 | [Brazilian Aviation Delays EDA (ANAC)](https://github.com/MateusFPavan/anac-voos-eda) | Exploratory analysis of 876K official flight records; found delays rose 58% in 2022, tracking capacity growth rather than seasonality. Corrected a real data anomaly along the way. | Python, Pandas, EDA |
 ## Data Essays
-Short analytical writing, published on LinkedIn with reproducible code here on GitHub. Different from the modeling projects above: the point is the question and the honest read of the evidence, not the model.
+Short analytical writing, published on LinkedIn with reproducible code here on GitHub. Different from the modeling projects above: the point is the question and the read of the evidence, not the model.
 | Essay | What it does | Tech |
 |---|---|---|
-| [What keeps a team together, and does AI quietly remove it?](https://github.com/MateusFPavan/team-cohesion-turnover-analysis) | Re-analysis of a public open-source turnover dataset (Jamieson et al., ICSE 2024), testing a question the authors did not ask: thin interpersonal communication tracks with losing veterans, not newcomers. Reports the finding and the tests that weaken it. | Python, pandas, scipy, Matplotlib |
+| [What keeps a team together, and does AI quietly remove it?](https://github.com/MateusFPavan/team-cohesion-turnover-analysis) | Re-analysis of a public open-source turnover dataset (Jamieson et al., ICSE 2024), run as a check against the psychological-safety literature. Tests a question the authors did not ask: thin interpersonal communication tracks with losing veterans, not newcomers. Reports the finding and the tests that weaken it. | Python, pandas, scipy, Matplotlib |
 ## Certifications
 **Data Scientist** — DataCamp (Jul 2026 – Jul 2028)
 **Data Scientist Associate** — DataCamp (Oct 2025 – Oct 2027)
